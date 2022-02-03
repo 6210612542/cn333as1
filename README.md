@@ -7,4 +7,4 @@ Number Guessing Game
 
 - สามารถกดปุ่ม Play again เพื่อเล่นเกมใหม่ได้ 
 
-- ลิ้งคลิป 
+- ลิ้งคลิป [link](https://youtu.be/escdH82Zpdg) 
